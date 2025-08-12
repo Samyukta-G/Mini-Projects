@@ -1,7 +1,7 @@
 # Mini-Projects
 This repository serves as a collection of personal mini-projects focused on data analysis, automation, and foundational data science skills. Each project demonstrates a complete workflow, from data handling and analysis to generating key insights.
 
---
+
 
 ## Weather Data Analysis & Automation (weather_data_analysis.py)
 This project focuses on automating the extraction and numerical analysis of historical weather data. The script reads from a CSV file, performs data cleaning, and calculates key metrics like mean temperature, humidity, and precipitation for user-specified months and years.
@@ -17,7 +17,7 @@ This project focuses on automating the extraction and numerical analysis of hist
 - weather_data_analysis.py: The core Python script for the analysis.
 - WeatherDataCLL.csv: The dataset containing 10 years of weather data.
 
--- 
+
 
 ## Hotel Booking Exploratory Data Analysis (EDA) (hotel_booking_EDA_miniproject.ipynb)
 This Jupyter Notebook provides a comprehensive exploratory data analysis of a hotel booking dataset. The project uncovers trends in customer booking behavior, identifies key booking patterns, and visualizes the data. 
